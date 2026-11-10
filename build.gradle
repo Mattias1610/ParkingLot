@@ -1,7 +1,5 @@
-plugins {
-    id 'java'
-    id 'war'
-}
+apply plugin: 'java'
+apply plugin: 'war'
 
 group 'com.parking'
 version '1.0-SNAPSHOT'
